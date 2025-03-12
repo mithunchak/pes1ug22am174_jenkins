@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     echo "Testing the compiled program..."
-                    sh './PES1UG22AM917-1'  // Execute compiled program
+                    sh './PES1UG22AM174-1'  // Execute compiled program
                 }
             }
         }
